@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution](https://github.com/rainSaxFrontend-Mentor-Projects/Pod-Request-Access-Landing-Page)
+- Live Site URL: [Live site Github Pages](https://rainsaxfrontend-mentor-projects.github.io/Pod-Request-Access-Landing-Page/)
 
 ## My process
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-This project was another opportunity I took for practicing using a mobile first approach. A new challenge I faced was trying to figure out how to add a darker overlay on the mobile hero image. I achieved this using the mix-blend-mode: multiply option on the ::after pseudoelement of my main content div.
+This project was another opportunity I took for practicing using a mobile first approach. A new challenge I faced was trying to figure out how to add a darker overlay on the mobile hero image. I achieved this using the mix-blend-mode: multiply option on the ::after pseudoelement of my main content div. I also got some practice with using an image for a background, setting it to not repeat, and positioning it where desired.
 
 ```
 main::after {
